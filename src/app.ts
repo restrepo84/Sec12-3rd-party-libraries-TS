@@ -18,7 +18,7 @@ validate(newProd).then((errors) => {
     console.log(newProd.getInformation());
   }
 });
-
+//finished
 // const p1 = new Product('A Book', 12.99);
 
 // const loadedProducts = products.map(prod => {
